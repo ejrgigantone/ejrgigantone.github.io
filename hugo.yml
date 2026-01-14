@@ -44,9 +44,9 @@ params:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
     subtitle: "Hi! I’m Emman, part data and tech in passion, and part economics in training. I work with both hats to realize these as social tools in analysis and applied work. I'll be using this space to document my learnings, projects, and progress along the way!"
-    imageUrl: ""
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "/images/website-background.jpg"
+    imageWidth: 800
+    imageHeight: 300
     buttons:
       - name: CV
         url: https://docs.google.com/document/d/1N2nwc1NfSpv3QTy9FH4JaY6VrqA1cunFdgz0NakiDvA/edit?usp=sharing
