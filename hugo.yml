@@ -12,7 +12,7 @@ params:
   env: production
   title: Emmanuel Jr. D. Gigantone
   description: "Economics, data, and technology as tools for social insight and decision-making."
-  keywords: [Economics, Data, Technology, Blog]
+  keywords: [Economics, Data, Technology, Portfolio]
   author: Emmanuel Jr. D. Gigantone
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -43,7 +43,7 @@ params:
   profileMode:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
-    subtitle: "Hi! I’m Emman, an Economics student at the University of the Philippines Los Baños. I’m interested in how tech and data can serve as social tools, from uncovering insights to supporting better decision-making. I'll be using this space to document my learnings, projects, and progress along the way."
+    subtitle: "Hi! I’m Emman, part data and tech in passion, and part economics in training. I work with both hats to realize these as social tools in analysis and applied work. I'll be using this space to document my learnings, projects, and progress along the way!"
     imageUrl: ""
     imageWidth: 120
     imageHeight: 120
