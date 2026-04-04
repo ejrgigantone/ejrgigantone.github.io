@@ -58,7 +58,8 @@ params:
       url: "https://www.linkedin.com/in/emmanuel-jr-gigantone/"
     - name: email
       url: "mailto:emmanueljrgigantone@gmail.com"
-
+    - name: substack         
+      url: "https://substack.com/@ponderingsometimes/posts"
   cover:
     hidden: true
     hiddenInList: true
