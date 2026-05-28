@@ -1,25 +1,27 @@
-/* Wider profile text */
-.profile {
-  max-width: 1100px !important;
+/* Make the homepage/profile area wider */
+:root {
+  --main-width: 920px;
 }
 
+/* Control profile text width */
 .profile_inner {
-  max-width: 950px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Profile subtitle text */
+/* Subtitle text */
 .profile_inner span,
 .profile_inner p {
-  max-width: 950px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  line-height: 1.7 !important;
+  max-width: 860px;
+  font-size: 0.92rem;
+  line-height: 1.7;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Spacing between subtitle paragraphs */
+/* Spacing between paragraphs */
 .profile_inner p {
-  margin-top: 1rem !important;
-  margin-bottom: 1rem !important;
+  margin-top: 0.9rem;
+  margin-bottom: 0.9rem;
 }
