@@ -11,6 +11,7 @@ buildExpired: false
 params:
   env: production
   title: Emmanuel Jr. D. Gigantone
+  description: "Economics, data, and technology as tools for social insight and decision-making."
   keywords: [Economics, Data, Technology, Portfolio]
   author: Emmanuel Jr. D. Gigantone
   DateFormat: "January 2, 2006"
@@ -34,11 +35,10 @@ params:
   showtoc: false
   tocopen: false
 
-     label:
+  label:
     text: "Home"
     iconHeight: 35
 
-  # Profile mode
   profileMode:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
@@ -53,7 +53,8 @@ params:
     imageHeight: 300
     buttons:
       - name: CV
-        url: https://docs.google.com/document/d/1N2nwc1NfSpv3QTy9FH4JaY6VrqA1cunFdgz0NakiDvA/edit?usp=sharing
+        url: "https://docs.google.com/document/d/1N2nwc1NfSpv3QTy9FH4JaY6VrqA1cunFdgz0NakiDvA/edit?usp=sharing"
+
   socialIcons:
     - name: github
       url: "https://github.com/ejrgigantone"
@@ -61,14 +62,14 @@ params:
       url: "https://www.linkedin.com/in/emmanuel-jr-gigantone/"
     - name: email
       url: "mailto:emmanueljrgigantone@gmail.com"
-    - name: substack         
+    - name: substack
       url: "https://substack.com/@ponderingsometimes/posts"
+
   cover:
     hidden: true
     hiddenInList: true
     hiddenInSingle: true
 
-# Menu section removed (Categories & Tags disabled)
 menu: {}
 
 markup:
