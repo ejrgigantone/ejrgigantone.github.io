@@ -42,9 +42,13 @@ params:
   profileMode:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
-    subtitle: "Hi! I’m Emman, part data and tech in passion, part economics in training. I also major in development economics and have been involved in spaces across the social sciences, technology, and civic initiatives."
-    subtitle: "I really enjoy working on social data science projects and these often involve social protection, informal work, political economy, digital transformation, AI, and data governance. My current work brings these together by studying poverty targeting tools in the Pantawid Pamilyang Pilipino Program (4Ps), focusing on exclusion and inclusion error patterns and its geographic distribution."
-    subtitle: "I'll be using this space to document my learnings, projects, and progress along the way!" 
+    subtitle: "
+        subtitle: |
+      Hi! I’m Emman, part data and tech in passion, part economics in training. I work with both hats to explore how they can serve as social tools for analysis and applied work.
+
+      I also major in development economics and have been involved in spaces across the social sciences, technology, and civic initiatives. I enjoy working on social data science projects, which often involve social protection, informal work, political economy, digital transformation, AI, and data governance.
+
+      My current work brings these together by studying poverty targeting tools in the Pantawid Pamilyang Pilipino Program (4Ps), focusing on exclusion and inclusion error patterns and their geographic distribution. This has shaped my interest in work that bridges development and applied data methods to make sense of new data and tools in ways that can be useful to institutions and communities.
     imageUrl: "/images/website-background.jpg"
     imageWidth: 800
     imageHeight: 300
