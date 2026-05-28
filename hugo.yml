@@ -39,11 +39,10 @@ params:
     iconHeight: 35
 
   # Profile mode
-  profileMode:
+   profileMode:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
-    subtitle: "
-        subtitle: |
+    subtitle: |
       Hi! I’m Emman, part data and tech in passion, part economics in training. I work with both hats to explore how they can serve as social tools for analysis and applied work.
 
       I also major in development economics and have been involved in spaces across the social sciences, technology, and civic initiatives. I enjoy working on social data science projects, which often involve social protection, informal work, political economy, digital transformation, AI, and data governance.
@@ -55,7 +54,6 @@ params:
     buttons:
       - name: CV
         url: https://docs.google.com/document/d/1N2nwc1NfSpv3QTy9FH4JaY6VrqA1cunFdgz0NakiDvA/edit?usp=sharing
-
   socialIcons:
     - name: github
       url: "https://github.com/ejrgigantone"
