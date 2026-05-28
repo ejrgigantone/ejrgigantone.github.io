@@ -34,12 +34,12 @@ params:
   showtoc: false
   tocopen: false
 
-  label:
+     label:
     text: "Home"
     iconHeight: 35
 
   # Profile mode
-   profileMode:
+  profileMode:
     enabled: true
     title: "Emmanuel Jr. D. Gigantone"
     subtitle: |
