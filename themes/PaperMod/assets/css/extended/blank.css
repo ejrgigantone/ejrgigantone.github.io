@@ -1,5 +1,12 @@
-/*
-This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+.profile_inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
-*/
+.profile_inner > span,
+.profile_inner p {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.65;
+}
